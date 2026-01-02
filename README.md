@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Akash+Raj;Blockchain+Developer;Building+MPC+Wallets" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Akash+Raj" alt="Typing SVG" /></h1>
 <h3 align="center">Blockchain Developer | Building MPC Wallets for Solana</h3>
 <p align="center">🔐 <strong>Specializing in threshold cryptography and distributed key management</strong></p>
 <p align="center">
@@ -56,18 +56,6 @@ Building production-grade MPC wallet infrastructure for Solana using:
 - Fixing CI/CD workflows for enterprise blockchain tooling
 - Active in Solana developer community
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-R-A-J&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-R-A-J&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akash-R-A-J&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🌱 What I'm Learning (2026)
 
 - Advanced Rust async patterns with Tokio
@@ -84,6 +72,7 @@ Building production-grade MPC wallet infrastructure for Solana using:
 - 🤝 Build with Solana developer community
 - 📝 Share learnings through technical writing
 
+---
 
 <div align="center">
 
@@ -94,3 +83,4 @@ Building production-grade MPC wallet infrastructure for Solana using:
 **⭐ Star my repos if you find them useful!**
 
 </div>
+
