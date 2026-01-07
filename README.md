@@ -37,7 +37,7 @@ const akash = {
 - 🔑 Ed25519 - Cryptographic signatures
 
 **Tools & Frameworks:**
-- Go, TypeScript, Node.js
+- TypeScript, Node.js, Java
 - Git, Docker, Linux
 - Tokio async runtime
 
@@ -53,10 +53,11 @@ Building production-grade MPC wallet infrastructure for Solana using:
 
 ### 🏭️ Open Source Contributions
 - Contributing to **Hyperledger Fabric** asset-transfer samples
+- Contributing to **Nativelink**
 - Fixing CI/CD workflows for enterprise blockchain tooling
 - Active in Solana developer community
 
-## 🌱 What I'm Learning (2026)
+## What I'm Learning
 
 - Advanced Rust async patterns with Tokio
 - Distributed Key Generation (DKG) protocols
@@ -64,19 +65,11 @@ Building production-grade MPC wallet infrastructure for Solana using:
 - Solana program optimization
 - Enterprise blockchain architecture (Hyperledger)
 
-## 🎯 2026 Goals
-
-- ✅ Ship idmap-core v1.0 (in progress)
-- 📈 Contribute to 10+ open source projects
-- 🎓 Master threshold cryptography
-- 🤝 Build with Solana developer community
-- 📝 Share learnings through technical writing
-
 ---
 
 <div align="center">
 
-### 🔥 *"Building MPC wallets that never reconstruct private keys. Because security isn't optional."*
+### *"Building MPC wallets that never reconstruct private keys. Because security isn't optional."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akash-R-A-J&color=blueviolet&style=flat-square&label=Profile+Views)
 
