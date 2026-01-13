@@ -15,17 +15,21 @@
 
 ## 🚀 About Me
 
-I'm a blockchain developer focused on building secure, production-ready infrastructure for Web3. Currently working on **idmap-core**, an MPC wallet solution for Solana using CGGMP21 threshold signatures.
+I'm a blockchain developer focused on building secure, production-ready infrastructure for Web3. I’ve built **idmap-core**, an MPC wallet solution for Solana using CGGMP21 threshold signatures.
 
 ```typescript
 const akash = {
     focus: "Building utility over hype",
-    current_project: "idmap-core - MPC wallet infrastructure",
+    shipped: "idmap-core - MPC wallet infra for Solana",
     learning: ["DKG protocols", "Threshold cryptography", "Solana programs"],
     tech_stack: ["Rust", "Solana", "Hyperledger Fabric", "Go", "TypeScript"],
     motto: "Every Solana developer you admire started somewhere. I'm building in public."
 };
 ```
+
+## 🏆 Highlights
+- Winner — Superteam × 100xDevs Solana Hackathon
+- Open-source contributor to memvid (multiple PRs merged, encryption & infra)
 
 ## 🔧 Tech Stack
 
@@ -41,10 +45,10 @@ const akash = {
 - Git, Docker, Linux
 - Tokio async runtime
 
-## 💼 Current Work
+## 💼 Shipped Work
 
 ### 🎯 idmap-core
-Building production-grade MPC wallet infrastructure for Solana using:
+Built production-grade MPC wallet infrastructure for Solana using:
 - **CGGMP21 DKG** for distributed key generation
 - **Ed25519 threshold signing** where private keys are never reconstructed
 - **Solana integration** for seamless blockchain interactions
@@ -52,8 +56,9 @@ Building production-grade MPC wallet infrastructure for Solana using:
 🔗 [Live Demo](https://id-map.shop) | 📚 [GitHub Repo](https://github.com/akash-R-A-J)
 
 ### 🏭️ Open Source Contributions
-- Contributing to **Hyperledger Fabric** asset-transfer samples
-- Contributing to **Nativelink**
+- **memvid** — encryption correctness, edge-case handling, streaming safety
+- **Nativelink** — concurrency fixes & deadlock resolution
+- **Hyperledger Fabric** — asset-transfer samples
 - Fixing CI/CD workflows for enterprise blockchain tooling
 - Active in Solana developer community
 
