@@ -29,7 +29,6 @@ const akash = {
 
 ## 🏆 Highlights
 - Winner — Superteam × 100xDevs Solana Hackathon
-- Open-source contributor to memvid (multiple PRs merged, encryption & infra)
 
 ## 🔧 Tech Stack
 
