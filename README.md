@@ -63,7 +63,7 @@ Built production-grade MPC wallet infrastructure for Solana using:
 
 ## What I'm Learning
 
-- Advanced Rust async patterns with Tokio
+- Advanced Rust async patterns (Tokio) for high-throughput distributed services
 - Distributed Key Generation (DKG) protocols
 - Multi-Party Computation (MPC) security models
 - Solana program optimization
