@@ -22,7 +22,7 @@ const akash = {
     focus: "Building utility over hype",
     shipped: "idmap-core - MPC wallet infra for Solana",
     learning: ["DKG protocols", "Threshold cryptography", "Solana programs"],
-    tech_stack: ["Rust", "Solana", "Hyperledger Fabric", "Go", "TypeScript"],
+    tech_stack: ["Rust", "Solana", "TypeScript"],
     motto: "Every Solana developer you admire started somewhere. I'm building in public."
 };
 ```
@@ -55,10 +55,10 @@ Built production-grade MPC wallet infrastructure for Solana using:
 🔗 [Live Demo](https://id-map.shop) | 📚 [GitHub Repo](https://github.com/akash-R-A-J)
 
 ### 🏭️ Open Source Contributions
+- **boa** — implemented PIC, improving engine performance by ~3%
 - **memvid** — encryption correctness, edge-case handling, streaming safety
 - **Nativelink** — concurrency fixes & deadlock resolution
 - **Hyperledger Fabric** — asset-transfer samples
-- Fixing CI/CD workflows for enterprise blockchain tooling
 - Active in Solana developer community
 
 ## What I'm Learning
